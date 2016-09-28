@@ -38,7 +38,7 @@ spec = Gem::Specification.new do |s|
      "test/test_video.rb",
      "test/test_video_search.rb",
      "TODO.txt",
-     "youtube-g.gemspec"
+     "youtube-g-es.gemspec"
   ]
 
   s.test_files = [
